@@ -7,4 +7,27 @@
 ### В файлах <a href="https://github.com/marianek26/Tachki/blob/main/data_raw%20(1).csv" target="_blank">"data_raw(1).csv"</a>  и <a href="https://github.com/marianek26/Tachki/blob/main/data_processed.csv" target="_blank">"data_processed.csv"</a> содержатся изначальные и обработанные данные соответственно
 
 ## Мы с нетерпением ждем обратную связь в Discussions -> <a href="https://github.com/marianek26/Tachki/discussions/2" target="_blank">Feedback</a>!
-# Кчау! :)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=К+Ч+А+У+!)](https://git.io/typing-svg)
+
+Содержание "Проектик (4)":
+<ul>
+  <li>Парсинг</li>
+  <li>Обработка данных</li>
+  
+ <dl>
+    <dd>Что за данные у нас вообще получились?</dd>
+    <dd>Начнем с пробега</dd>
+    <dd>Следующим большим вопросом стала Оценка Drom</dd>
+    <dd>Отлично! Теперь разберемся с мощностью</dd> 
+    <dd>Что ж, теперь разберемся с объемами двигателей</dd>
+    <dd>Займемся топливом</dd>
+    <dd>Посмотрим на NaNы в коробке передач</dd>
+    <dd>А как там рули?</dd> 
+    <dd>Привод</dd>
+    <dd>Цвет</dd>
+    <dd>Все пропуски обработаны! Ура!</dd> 
+ <dl>
+
+  <li>Визуализация</li>
+  <li>Наши дальнейшие планы</li>
+</ul>
