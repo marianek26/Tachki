@@ -7,4 +7,5 @@
 
 ### В файлах "data_raw" и "data_processed" содержатся изначальные и обработанные данные соответственно
 
-## Мы с нетерпением ждем обратную связь в Discussions -> Feedback! :)
+## Мы с нетерпением ждем обратную связь в Discussions -> Feedback! (https://github.com/marianek26/Tachki/discussions/2)
+# :)
