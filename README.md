@@ -8,7 +8,7 @@
 ## Мы с нетерпением ждем обратную связь в Discussions -> <a href="https://github.com/marianek26/Tachki/discussions/2" target="_blank">Feedback</a>!
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=К+Ч+А+У+!)](https://git.io/typing-svg)
 
-Содержание "Проектик (4)":
+Содержание проекта "Тачки":
 <ul>
   
 ###  <li> Парсинг</li>
