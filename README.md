@@ -30,3 +30,4 @@
     <dd>Ближайшие соседи</dd>
  </dl>
 </ul>
+  <img src=я.jpg width=500 height=340>
